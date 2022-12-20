@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amarthyasterin
 - 👀 I’m interested in cloud computing ,devops tools & coding
-- 🌱 I’m currently learning docker
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on aws related projects
 - 📫 ping me amarthyasterin@gmail.com
 
