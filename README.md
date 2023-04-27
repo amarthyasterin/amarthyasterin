@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amarthyasterin
-- 👀 I’m interested in cloud computing ,devops tools & coding
+- 👀 I’m interested in cloud computing ,devops tools,AI & ML
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on cloud related projects
+- 💞️ I’m looking to collaborate on cloud, AI & ML related projects
 - 📫 ping me amarthyasterin@gmail.com
 
 <!---
